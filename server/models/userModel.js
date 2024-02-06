@@ -2,7 +2,7 @@
 const mongoose = require('mongoose');
 
 //this is my database ~Simon C~ if you want to be whitelisted DM me or you can make your own database and replace the URI 
-const MONGO_URI = 'mongodb+srv://axolotlDB60:VKJ1qdlzLHrYKR0g@cluster0.atoyrvu.mongodb.net/?retryWrites=true&w=majority';
+const MONGO_URI = 'mongodb+srv://danieldkim42:ZLRguLcJ1ZC9JuRP@cluster0.zf5yl55.mongodb.net/?retryWrites=true&w=majority';
 
 
 
